@@ -18,16 +18,14 @@ Soy desarrollador **Frontend** creando interfaces modernas, claras y funcionales
 
 ## ⭐ Proyectos destacados
 
-> (Reemplaza los links por los tuyos: repo y demo)
+### 📦 Inventory App (CRUD + LocalStorage)
+Registro de productos (nombre, SKU, categoría, cantidad, stock mínimo, precio), cálculo de totales y persistencia en LocalStorage.
+- Repo: https://github.com/SebWebX/App_Inventario
+
 
 ### 🌤️ Weather App (API + UI)
 App del clima consumiendo API, con vista por días y render dinámico.
 - Repo: https://github.com/SebWebX/App_Clima
-
-
-### 📦 Inventory App (CRUD + LocalStorage)
-Registro de productos (nombre, SKU, categoría, cantidad, stock mínimo, precio), cálculo de totales y persistencia en LocalStorage.
-- Repo: https://github.com/SebWebX/App_Inventario
 
 
 ### 🔐 Password Generator
