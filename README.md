@@ -1,50 +1,47 @@
-# 👋 Hola, soy Seb
+# 👋 Hi, I’m Seb
 
-Soy desarrollador **Frontend** creando interfaces modernas, claras y funcionales con **HTML, CSS y JavaScript**. Me gusta trabajar con código ordenado, buena semántica y detalles que mejoren la experiencia de usuario.
+I’m a **Frontend Developer** building modern, clean, and functional interfaces with **HTML, CSS, and JavaScript**. I enjoy writing well-structured code, using solid semantics, and polishing the small details that improve the user experience.
 
-- 📍 México (GMT-6)
-- 🎯 Busco oportunidades como **Frontend Developer** (remoto / híbrido)
-- 📚 Actualmente aprendiendo **TypeScript y Angular** para construir proyectos más escalables
+- 📍 Mexico (GMT-6)
+- 🎯 Open to **Frontend Developer** opportunities (remote / hybrid)
+- 📚 Currently learning **TypeScript and Angular** to build more scalable projects
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend:** HTML5 · CSS3 (BEM) · JavaScript (ES6+)  
-**UI:** Responsive Design · Accesibilidad básica (a11y) · UX/UI  
-**Tools:** Git/GitHub · DevTools · Consumo de APIs · LocalStorage
+**UI:** Responsive Design · Basic accessibility (a11y) · UX/UI  
+**Tools:** Git/GitHub · DevTools · API consumption · LocalStorage
 
 ---
 
-## ⭐ Proyectos destacados
+## ⭐ Featured Projects
 
 ### 📦 Inventory App (CRUD + LocalStorage)
-Registro de productos (nombre, SKU, categoría, cantidad, stock mínimo, precio), cálculo de totales y persistencia en LocalStorage.
+Product tracking app (name, SKU, category, quantity, minimum stock, price), total calculations, and persistence using LocalStorage.  
 - Repo: https://github.com/SebWebX/App_Inventario
 
-
 ### 🌤️ Weather App (API + UI)
-App del clima consumiendo API, con vista por días y render dinámico.
+Weather app that consumes an API, includes a multi-day forecast view, and renders data dynamically.  
 - Repo: https://github.com/SebWebX/App_Clima
 
-
 ### 🔐 Password Generator
-Generador de contraseñas con opciones configurables y feedback claro para el usuario.
+Password generator with configurable options and clear user feedback.  
 - Repo: https://github.com/SebWebX/App_Contrase-a
 
+---
+
+## ✅ How I work
+
+- Focused on **readable code** (clear naming, small functions, clean structure)
+- **Responsive** layout and UI
+- Validation and UI state handling (errors, empty states, loading) when needed
+- I aim for simple, polished interfaces
 
 ---
 
-## ✅ Cómo trabajo
-
-- Con enfoque en **código legible** (nombres claros, funciones pequeñas, estructura limpia)
-- Diseño **responsive** 
-- Validaciones y manejo de estados UI (errores, vacíos, loading) cuando es necesario
-- Priorizando una UI sencilla pero cuidada
-
----
-
-## 📬 Contacto
+## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/sebaswebdevx/
 - Email: sebasweb.devx@gmail.com
