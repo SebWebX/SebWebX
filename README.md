@@ -12,7 +12,7 @@ I’m a **Frontend Developer** building modern, clean, and functional interfaces
 
 **Frontend:** HTML5 · CSS3 (BEM) · JavaScript (ES6+)  
 **UI:** Responsive Design · Basic accessibility (a11y) · UX/UI  
-**Tools:** Git/GitHub · DevTools · API consumption · LocalStorage
+**Tools:** GitHub · DevTools · API consumption · LocalStorage
 
 ---
 
