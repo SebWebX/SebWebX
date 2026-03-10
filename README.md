@@ -5,9 +5,9 @@ Soy **Desarrollador Frontend** construyendo interfaces modernas, limpias y funci
 - 📚 Actualmente aprendiendo **TypeScript y Angular** para construir proyectos más escalables
 ---
 ## 🧰 Tech Stack
-**Frontend:** HTML5 · CSS3 (BEM) · JavaScript (ES6+)  
-**UI:** Diseño Responsivo · Accesibilidad básica (a11y) · UX/UI  
-**Herramientas:** GitHub · DevTools · Consumo de APIs · LocalStorage
+Frontend: HTML5 · CSS3 (BEM) · JavaScript (ES6+)  
+UI: Diseño Responsivo · Accesibilidad básica (a11y) · UX/UI  
+Herramientas:** GitHub · DevTools · Consumo de APIs · LocalStorage
 ---
 ## ⭐ Proyectos Destacados
 ### 📦 App de Inventario (CRUD + LocalStorage)
