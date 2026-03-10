@@ -1,51 +1,45 @@
-# 👋 Hi, I’m Seb
+👋 Hola, soy Seb
+Soy Desarrollador Frontend construyendo interfaces modernas, limpias y funcionales con HTML, CSS y JavaScript. Disfruto escribir código bien estructurado, aplicar semántica sólida y pulir los pequeños detalles que mejoran la experiencia del usuario.
 
-I’m a **Frontend Developer** building modern, clean, and functional interfaces with **HTML, CSS, and JavaScript**. I enjoy writing well-structured code, using solid semantics, and polishing the small details that improve the user experience.
+📍 México (GMT-6)
+🎯 Abierto a oportunidades como Desarrollador Frontend (remoto / híbrido)
+📚 Actualmente aprendiendo TypeScript y Angular para construir proyectos más escalables
 
-- 📍 Mexico (GMT-6)
-- 🎯 Open to **Frontend Developer** opportunities (remote / hybrid)
-- 📚 Currently learning **TypeScript and Angular** to build more scalable projects
 
----
+🧰 Tech Stack
+Frontend: HTML5 · CSS3 (BEM) · JavaScript (ES6+)
+UI: Diseño Responsivo · Accesibilidad básica (a11y) · UX/UI
+Herramientas: GitHub · DevTools · Consumo de APIs · LocalStorage
 
-## 🧰 Tech Stack
+⭐ Proyectos Destacados
+📦 App de Inventario (CRUD + LocalStorage)
+Sistema de seguimiento de productos (nombre, SKU, categoría, cantidad, stock mínimo y precio), con cálculos automáticos del total y persistencia de datos mediante LocalStorage.
 
-**Frontend:** HTML5 · CSS3 (BEM) · JavaScript (ES6+)  
-**UI:** Responsive Design · Basic accessibility (a11y) · UX/UI  
-**Tools:** GitHub · DevTools · API consumption · LocalStorage
+Repo: https://github.com/SebWebX/App_Inventario
 
----
+🌤️ App del Clima (API + UI)
+Aplicación meteorológica que consume una API REST, incluye vista de pronóstico de varios días y renderiza los datos de forma dinámica en la interfaz.
 
-## ⭐ Featured Projects
+Repo: https://github.com/SebWebX/App_Clima
 
-### 📦 Inventory App (CRUD + LocalStorage)
-Product tracking app (name, SKU, category, quantity, minimum stock, price), total calculations, and persistence using LocalStorage.  
-- Repo: https://github.com/SebWebX/App_Inventario
+🔐 Generador de Contraseñas
+Generador de contraseñas con opciones configurables, retroalimentación visual clara al usuario y copia al portapapeles con un clic.
 
-### 🌤️ Weather App (API + UI)
-Weather app that consumes an API, includes a multi-day forecast view, and renders data dynamically.  
-- Repo: https://github.com/SebWebX/App_Clima
+Repo: https://github.com/SebWebX/App_Contrase-a
 
-### 🔐 Password Generator
-Password generator with configurable options and clear user feedback.  
-- Repo: https://github.com/SebWebX/App_Contrase-a
 
----
+✅ Cómo trabajo
 
-## ✅ How I work
+Enfocado en código legible (nombres claros, funciones pequeñas, estructura limpia)
+Maquetación y UI 100% responsiva
+Validación y manejo de estados de la UI (errores, estados vacíos, carga) cuando el flujo lo requiere
+Apunto a interfaces simples, funcionales y bien terminadas
 
-- Focused on **readable code** (clear naming, small functions, clean structure)
-- **Responsive** layout and UI
-- Validation and UI state handling (errors, empty states, loading) when needed
-- I aim for simple, polished interfaces
 
----
+📬 Contacto
 
-## 📬 Contact
-
-- LinkedIn: https://www.linkedin.com/in/sebaswebdevx/
-- Email: sebasweb.devx@gmail.com
-
+LinkedIn: https://www.linkedin.com/in/sebaswebdevx/
+Email: sebasweb.devx@gmail.com
 
 <!--
 **SebWebX/SebWebX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
