@@ -23,14 +23,16 @@ Generador de contraseñas aleatorias y seguras con opciones configurables: longi
 ---
 ## ✅ Cómo trabajo
 - Enfocado en **código legible** (nombres claros, funciones pequeñas, estructura limpia)
-- Maquetación y UI **100% responsiva**
+- Maquetación y UI **100% responsiva** con enfoque **mobile-first** y convenciones **BEM**
+- Consumo de **APIs REST** con Fetch API, manejo de Promesas y control de errores asíncronos
 - Validación y manejo de estados de la UI (errores, estados vacíos, carga) cuando el flujo lo requiere
-- Apunto a interfaces simples, funcionales y bien terminadas
+- Persistencia de datos en el cliente mediante **LocalStorage**
+- Control de versiones con **Git y GitHub** para mantener el código organizado y colaborativo
+- Apunto a interfaces simples, funcionales y bien terminadas, cuidando los detalles que mejoran la experiencia del usuario
 ---
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/sebaswebdevx/
 - Email: sebasweb.devx@gmail.com
-
 <!--
 **SebWebX/SebWebX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
