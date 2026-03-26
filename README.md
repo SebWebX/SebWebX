@@ -8,7 +8,7 @@ Soy **Desarrollador Frontend** construyendo interfaces modernas, limpias y funci
 **Frontend:** HTML5 · CSS3 (BEM) · JavaScript (ES6+)  
 **Frameworks/Librerías:** React (básico) · TypeScript (básico)  
 **UI:** Diseño Responsivo · Accesibilidad básica (a11y) · UX/UI · Figma (básico)  
-**Herramientas:** GitHub · DevTools · Consumo de APIs · LocalStorage
+**Herramientas:** Git/GitHub · DevTools · Consumo de APIs · LocalStorage
 ---
 ##  Proyectos Destacados
 
