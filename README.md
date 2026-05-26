@@ -42,6 +42,17 @@ México (GMT-6) &nbsp;·&nbsp; Abierto a roles de **Desarrollador Frontend** (Re
 
 ## Proyectos Destacados
 
+### ChatBot Conversacional con IA 
+
+> Chatbot conversacional para e-commerce de tecnología con integración de IA en tiempo real (Llama 3.3 70B vía Groq), construido con TypeScript vanilla y arquitectura modular escalable.
+
+- Desarrollé un chatbot conversacional para e-commerce de tecnología con HTML semántico, CSS moderno y TypeScript, integrando el modelo Llama 3.3 70B mediante la API de Groq.
+- Organicé arquitectura modular en TypeScript con separación de responsabilidades, manejo asíncrono con async/await y gestión segura de variables de entorno con Vite.
+- Apliqué arquitectura CSS escalable con BEM, @layer, design tokens y unidades rem para garantizar mantenibilidad y diseño responsive.
+
+**[Demo en vivo](https://sebwebx.github.io/bot-ai/)** &nbsp;·&nbsp; **[Repositorio](https://github.com/SebWebX/bot-ai)**
+
+---
 ### E-Commerce Dashboard
 > Dashboard frontend que consume la [FakeStore API](https://fakestoreapi.com/), construido como proyecto de portafolio para demostrar arquitectura frontend profesional.
 
@@ -51,7 +62,7 @@ México (GMT-6) &nbsp;·&nbsp; Abierto a roles de **Desarrollador Frontend** (Re
 - Diseño con **estética minimalista inspirada en Apple**: tipografía Inter, tokens de color semánticos, sin sombras innecesarias
 - Sigue un flujo de trabajo Git profesional usando **Conventional Commits**
 
-**[Demo en vivo](#)** &nbsp;·&nbsp; **[Repositorio](https://github.com/SebWebX/ecommerce-dashboard)**
+**[Demo en vivo](https://sebwebx.github.io/ecommerce-dashboard/)** &nbsp;·&nbsp; **[Repositorio](https://github.com/SebWebX/ecommerce-dashboard)**
 
 ---
 
@@ -146,7 +157,7 @@ México (GMT-6) &nbsp;·&nbsp; Open to **Frontend Developer** roles (Remote / Hy
 - Designed with an **Apple-inspired minimalist aesthetic**: Inter typeface, semantic color tokens, no unnecessary shadows
 - Follows a professional Git workflow using **Conventional Commits**
 
-**[Live Demo](#)** &nbsp;·&nbsp; **[Repository](https://github.com/SebWebX/ecommerce-dashboard)**
+**[Live Demo](https://sebwebx.github.io/ecommerce-dashboard/)** &nbsp;·&nbsp; **[Repository](https://github.com/SebWebX/ecommerce-dashboard)**
 
 ---
 
