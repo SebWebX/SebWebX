@@ -148,6 +148,16 @@ México (GMT-6) &nbsp;·&nbsp; Open to **Frontend Developer** roles (Remote / Hy
 
 ## Featured Projects
 
+### AI Conversational Chatbot
+
+> Conversational chatbot for a technology e-commerce platform with real-time AI integration using Llama 3.3 70B through Groq, built with vanilla TypeScript and a scalable modular architecture.
+
+- Developed a conversational chatbot for a technology e-commerce platform using semantic HTML, modern CSS, and TypeScript, integrating the Llama 3.3 70B model through the Groq API.
+- Structured a modular TypeScript architecture with clear separation of responsibilities, asynchronous handling with async/await, and secure environment variable management using Vite.
+- Implemented a scalable CSS architecture with BEM, @layer, design tokens, and rem units to ensure maintainability and responsive design.
+
+**[Demo en vivo](https://sebwebx.github.io/bot-ai/)** &nbsp;·&nbsp; **[Repositorio](https://github.com/SebWebX/bot-ai)**
+
 ### E-Commerce Dashboard
 > Frontend dashboard consuming the [FakeStore API](https://fakestoreapi.com/), built as a portfolio project to demonstrate professional frontend architecture.
 
