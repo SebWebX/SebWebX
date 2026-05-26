@@ -156,7 +156,7 @@ México (GMT-6) &nbsp;·&nbsp; Open to **Frontend Developer** roles (Remote / Hy
 - Structured a modular TypeScript architecture with clear separation of responsibilities, asynchronous handling with async/await, and secure environment variable management using Vite.
 - Implemented a scalable CSS architecture with BEM, @layer, design tokens, and rem units to ensure maintainability and responsive design.
 
-**[Demo en vivo](https://sebwebx.github.io/bot-ai/)** &nbsp;·&nbsp; **[Repositorio](https://github.com/SebWebX/bot-ai)**
+**[Live Demo](https://sebwebx.github.io/bot-ai/)** &nbsp;·&nbsp; **[Repository](https://github.com/SebWebX/bot-ai)**
 
 ### E-Commerce Dashboard
 > Frontend dashboard consuming the [FakeStore API](https://fakestoreapi.com/), built as a portfolio project to demonstrate professional frontend architecture.
