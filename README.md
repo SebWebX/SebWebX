@@ -34,7 +34,7 @@ México (GMT-6) &nbsp;·&nbsp; Abierto a roles de **Desarrollador Frontend** (Re
 | **Core** | HTML5 · CSS3 · JavaScript ES6+ |
 | **Arquitectura CSS** | BEM · Custom Properties · `@layer` · Diseño Responsivo · Mobile-first |
 | **JavaScript** | Manipulación del DOM · Fetch API · Async/Await · APIs REST · LocalStorage |
-| **Frameworks** | Angular (en aprendizaje) · TypeScript (en aprendizaje) |
+| **Frameworks** | Angular  · TypeScript  |
 | **Accesibilidad** | HTML Semántico · ARIA · Fundamentos a11y |
 | **Herramientas** | Git · GitHub · GitHub Pages · Figma (básico) · DevTools |
 
@@ -140,7 +140,7 @@ México (GMT-6) &nbsp;·&nbsp; Open to **Frontend Developer** roles (Remote / Hy
 | **Core** | HTML5 · CSS3 · JavaScript ES6+ |
 | **CSS Architecture** | BEM · Custom Properties · `@layer` · Responsive Design · Mobile-first |
 | **JavaScript** | DOM Manipulation · Fetch API · Async/Await · REST APIs · LocalStorage |
-| **Frameworks** | Angular (learning) · TypeScript (learning) |
+| **Frameworks** | Angular  · TypeScript  |
 | **Accessibility** | Semantic HTML · ARIA · a11y fundamentals |
 | **Tooling** | Git · GitHub · GitHub Pages · Figma (basic) · DevTools |
 
